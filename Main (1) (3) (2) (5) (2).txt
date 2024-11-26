@@ -2081,7 +2081,7 @@ end)()
 
 local SelectFastAttackMode = (SelectFastAttackMode or "Super Fast")
 
-SelectedFastAttackMode = {"0","0.1","0.01","0.10"}
+SelectedFastAttackMode = {"0","Vip","0.01","0.10"}
 
 local function ChangeModeFastAttack(SelectFastAttackMode)
 	if SelectFastAttackMode == "0" then
